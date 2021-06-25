@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="assormentstate_label">Stan magazynu: </string>
+    <string name="quantity_placeholder">100</string>
+    <string name="quantity_unit">kg</string>
+    <string name="addbutton_label">Składuj</string>
+    <string name="removebutton_label">Wydaj</string>
+</resources>
